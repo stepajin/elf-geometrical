@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level width="1000" height="780">  
+    <grid x="50" y="0" edgesize="180" segments="2" />
+    <tasktile segmentx="0" segmenty="0" tiletype="1"/>
+    <tasktile segmentx="1" segmenty="1" tiletype="0"/>
+</level>

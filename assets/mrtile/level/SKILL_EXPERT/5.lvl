@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level width="1000" height="780">  
+    <grid x="50" y="0" edgesize="300" segments="6" />
+    <tasktile segmentx="2" segmenty="0" tiletype="1"/>
+	<tasktile segmentx="2" segmenty="2" tiletype="1"/>
+	<tasktile segmentx="2" segmenty="1" tiletype="1"/>
+	<tasktile segmentx="3" segmenty="1" tiletype="1"/>
+	
+	<tasktile segmentx="2" segmenty="4" tiletype="2"/>
+	
+	<tasktile segmentx="1" segmenty="3" tiletype="9"/>
+	<tasktile segmentx="2" segmenty="3" tiletype="9"/>
+    <tasktile segmentx="3" segmenty="3" tiletype="9"/>
+    
+    <tasktile segmentx="3" segmenty="4" tiletype="9"/>
+	<tasktile segmentx="3" segmenty="5" tiletype="9"/>
+	
+	<tasktile segmentx="2" segmenty="5" tiletype="9"/>
+	<tasktile segmentx="1" segmenty="5" tiletype="9"/>
+	<tasktile segmentx="1" segmenty="4" tiletype="9"/>
+</level>

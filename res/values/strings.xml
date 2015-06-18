@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Elf: Geometrical planet</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_add_new_player_scene">AddNewPlayerScene</string>
+    <string name="title_activity_add_new_player">AddNewPlayer</string>
+    <string name="zadatjmeno">Zadejte jméno nového hráče:</string>
+    <string name="vyberteobrazek">Vyberte obrázek:</string>
+    <string name="vybranbrazek">Vybrán obrázek:</string>
+    <string name="vytvoritnovehohrace">Vytvořit nového hráče:</string>
+    
+    
+
+</resources>

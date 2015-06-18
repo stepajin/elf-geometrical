@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level width="3">  
+    <entity x="150" y="100" type="plate1"/>
+    <entity x="350" y="120" type="plate2"/>
+    <entity x="620" y="150" type="plate3"/>
+   
+</level>

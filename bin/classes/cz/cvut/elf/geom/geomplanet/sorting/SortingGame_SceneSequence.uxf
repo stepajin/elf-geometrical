@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="11.5">
+  <zoom_level>9</zoom_level>
+  <element>
+    <type>com.umlet.element.custom.Text</type>
+    <coordinates>
+      <x>117</x>
+      <y>45</y>
+      <w>198</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>Skřítek
+Geometric Planet - Sorting Game
+Scene Sequence
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>369</x>
+      <y>135</y>
+      <w>108</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>*MAIN MENU*
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>117</x>
+      <y>108</y>
+      <w>945</w>
+      <h>459</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>162</x>
+      <y>234</y>
+      <w>198</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>*SortingIntroScene*
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>324</x>
+      <y>324</y>
+      <w>198</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>*SortingBanquetScene*
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>324</x>
+      <y>414</y>
+      <w>198</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>*SortingDinnigTableScene*
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>324</x>
+      <y>504</y>
+      <w>198</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>*SortingTaskScene*
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>360</x>
+      <y>126</y>
+      <w>126</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>234</x>
+      <y>126</y>
+      <w>143</w>
+      <h>125</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>27;108;27;27;126;27</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>360</x>
+      <y>333</y>
+      <w>44</w>
+      <h>98</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>27;81;27;27</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>495</x>
+      <y>243</y>
+      <w>164</w>
+      <h>117</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+onBackKeyPressed()</panel_attributes>
+    <additional_attributes>90;27;90;99;27;99</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>369</x>
+      <y>333</y>
+      <w>164</w>
+      <h>98</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+onBackKeyPressed()</panel_attributes>
+    <additional_attributes>90;27;90;81</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+      <x>486</x>
+      <y>234</y>
+      <w>198</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>*SortingOutroScene*
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>459</x>
+      <y>126</y>
+      <w>143</w>
+      <h>125</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>27;27;126;27;126;108</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>234</x>
+      <y>243</y>
+      <w>107</w>
+      <h>116</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>90;99;27;99;27;27</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>360</x>
+      <y>423</y>
+      <w>44</w>
+      <h>98</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>27;81;27;27</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>369</x>
+      <y>423</y>
+      <w>164</w>
+      <h>98</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+onBackKeyPressed()</panel_attributes>
+    <additional_attributes>90;27;90;81</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.Text</type>
+    <coordinates>
+      <x>747</x>
+      <y>135</y>
+      <w>297</w>
+      <h>333</h>
+    </coordinates>
+    <panel_attributes>*Main menu:*
+Hlavní nabídka Geometrické planety.
+.
+*SortingIntroScene:*
+Úvodní obrazovka během načítání hry Řazení.
+.
+*SortingBanquetScene:*
+Scéna s obrazem hostiny. Namluvené uvítání
+hráče ve hře.
+.
+*SortingDinnigTableScene:*
+Scéna s jídelním stolem, kde se provádí úkol
+řazení předmětů (jídla) na talíře. Namluvený 
+cíl a obsah hry.
+.
+*SortingTaskScene:*
+Scéna se samotnou hrou. Namluvené přesné 
+pokyny, jak má uživatel hru hrát.
+.
+*SortingOutroScene:*
+Ukončovací obrazovka při opouštění hry.</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

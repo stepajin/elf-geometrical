@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level width="7">  
+	<bead type="1" known="true"/>
+	<bead type="1" known="true"/>
+	<bead type="1" known="true"/>
+	<bead type="1" known="true"/>	
+	<bead type="1" known="false"/>	
+	<bead type="1" known="true"/>	
+	<bead type="1" known="true"/>	
+</level>
